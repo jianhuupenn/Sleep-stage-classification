@@ -1,5 +1,5 @@
 # Sleep stage classification based on Recurrent neural networks using wrist-worn device data
-Jian Hu, Haochang Shou*
+### Jian Hu, Haochang Shou*
 
 ![Workflow](docs/asserts/images/workflow.jpg)
 
